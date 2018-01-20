@@ -1,0 +1,38 @@
+O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:4:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:0:"";s:4:"text";s:4:"Home";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:85:"cimage/imgd.php?src=headerbackground02.jpg&width=1100&h=200&crop-to-fit&area=30,0,0,0";}}s:12:"sidebar-left";a:4:{s:5:"title";s:12:"Our Services";s:4:"data";a:2:{s:7:"content";s:182:"<h1>Our Services</h1>
+
+<ul>
+<li>Advisory</li>
+<li>Family business</li>
+<li>Legal</li>
+<li>Tax</li>
+<li>Family business</li>
+<li>IFRS</li>
+<li>Audit and assurance services</li>
+</ul>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/leftsidebar";}}s:6:"region";s:12:"sidebar-left";s:8:"template";s:15:"default/content";}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:7:"content";s:1190:"<h1>Welcome to your executive consultant</h1>
+
+<p><img src="http://localhost:8080/proj/htdocs/cimage/imgd.php?src=concultants01.jpg" alt="Excecutive Consultants" /></p>
+
+<p>We offers experienced and comprehensive help for a wide range of business needs, and can help you to work smarter and reach your goals. Have a look at the professional services we offers, and let&#8217;s talk.</p>
+
+<h3>When you get right down to it, success is all about value and trust.</h3>
+
+<p><img src="http://localhost:8080/proj/htdocs/cimage/imgd.php?src=jobtitles.png" alt="Excecutive Consultants offer" />
+Value is a product of trust. The trust your clients have in you. The trust you have in your people, strategies and systems. And the trust you have in your business advisors.
+As the world&#8217;s leading professional services firm, we know that value and trust are also the ingredients of a quality relationship — and that they are earned over more than a single engagement.</p>
+
+<p>No matter how big you are, public or private, and in what industries or sectors you do business, we can help you work smarter and reach your goals. Have a look at the services we offer, below. And let&#8217;s talk.</p>
+";s:7:"excerpt";s:1190:"<h1>Welcome to your executive consultant</h1>
+
+<p><img src="http://localhost:8080/proj/htdocs/cimage/imgd.php?src=concultants01.jpg" alt="Excecutive Consultants" /></p>
+
+<p>We offers experienced and comprehensive help for a wide range of business needs, and can help you to work smarter and reach your goals. Have a look at the professional services we offers, and let&#8217;s talk.</p>
+
+<h3>When you get right down to it, success is all about value and trust.</h3>
+
+<p><img src="http://localhost:8080/proj/htdocs/cimage/imgd.php?src=jobtitles.png" alt="Excecutive Consultants offer" />
+Value is a product of trust. The trust your clients have in you. The trust you have in your people, strategies and systems. And the trust you have in your business advisors.
+As the world&#8217;s leading professional services firm, we know that value and trust are also the ingredients of a quality relationship — and that they are earned over more than a single engagement.</p>
+
+<p>No matter how big you are, public or private, and in what industries or sectors you do business, we can help you work smarter and reach your goals. Have a look at the services we offer, below. And let&#8217;s talk.</p>
+";}}}s:11:"frontmatter";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"views";a:1:{s:12:"sidebar-left";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:15:"default/content";s:4:"data";a:1:{s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/leftsidebar";}}}}s:5:"title";s:36:"Welcome to your executive consultant";}}

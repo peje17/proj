@@ -1,0 +1,29 @@
+O:8:"stdClass":7:{s:4:"file";s:27:"blogg/300_BloggNumber_03.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:8:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:4:"peje";a:1:{s:7:"acronym";s:4:"peje";}}s:9:"published";s:10:"2018-01-14";s:8:"category";a:1:{s:8:"Strategy";a:1:{s:3:"key";s:8:"Strategy";}}s:7:"content";s:2200:"<h1>Technology has reduced the tax compliance burden on business, but where will the demands for increased data lead?</h1>
+
+<p>The use of technology, by business and government, in tax compliance is driving continued simplification and reduction in the burden of tax compliance on businesses, says the latest edition of Paying Taxes 2018, a report by The World Bank Group and EC.</p>
+
+<!--more-->
+
+<h2 id="var"><a class="header-anchor" href="#var">#</a>Increased demand for data - where does it lead?</h2>
+
+<figure class="figure right">
+    <a href="http://localhost:8080/proj/htdocs/img/data.jpg"><img src="http://localhost:8080/proj/htdocs/cimage/imgd.php?src=data.jpg" alt="Need for data"/></a>
+</figure>
+
+<p>Released today, the report finds that the time to comply declined by 5 hours to 240 hours; and the number of payments by one to 24 payments. On the post-filing index, in 81 economies a corporate income tax audit is triggered by taxpayers voluntarily amending a return for a simple error while in 51 of the economies with a VAT system, no VAT refund is available for our case study company, suggesting that there is significant room for improvement in post-filing processes in many economies.</p>
+
+<p>The movement in the Total Tax and Contribution Rate (TTCR) is virtually flat, increasing by just 0.1 percentage points, to 40.5%; with some increases in corporate income taxes and turnover taxes.</p>
+
+<p>The Paying Taxes 2018 report examines the ease of paying taxes in 190 economies. The report models business taxation in each economy using a medium-sized domestic case study company.</p>
+
+<h2 id="var1"><a class="header-anchor" href="#var1">#</a>Drivers?</h2>
+
+<p>Both the time and number of payments needed to comply have continued to fall significantly, reflecting the increasing use of technology. Time needed to comply with labour and profit taxes fell by 2 hours (to 61 hours for profit taxes and 87 hours for labour taxes), compared to last year, with labour taxes showing the greatest reduction over the life of the study (since Doing Business 2006). Electronic filing and payment, improved tax and accounting software and pre-populated returns are amongst the key drivers.</p>
+";s:7:"excerpt";s:385:"<h1>Technology has reduced the tax compliance burden on business, but where will the demands for increased data lead?</h1>
+
+<p>The use of technology, by business and government, in tax compliance is driving continued simplification and reduction in the burden of tax compliance on businesses, says the latest edition of Paying Taxes 2018, a report by The World Bank Group and EC.</p>
+
+";}}s:6:"byline";a:4:{s:6:"region";s:4:"main";s:8:"template";s:14:"default/byline";s:4:"sort";i:2;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:6:"author";}s:6:"author";a:1:{s:4:"peje";a:1:{s:7:"acronym";s:4:"peje";}}}}s:13:"next-previous";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:27:"blogg/200_BloggNumber_02.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:73:"Global Digital Small Business Insurance Survey: This time it’s personal";s:11:"publishTime";i:1515711600;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:20:"blogg/BloggNumber_02";}s:8:"previous";N;}}s:10:"share-this";a:3:{s:6:"region";s:4:"main";s:8:"template";s:13:"default/share";s:4:"sort";i:4;}s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:6:"blogg/";s:4:"text";s:28:"Excecutive Consultants Blogg";}i:0;a:2:{s:3:"url";s:20:"blogg/BloggNumber_03";s:4:"text";s:113:"Technology has reduced the tax compliance burden on business, but where will the demands for increased data lead?";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:85:"cimage/imgd.php?src=headerbackground02.jpg&width=1100&h=200&crop-to-fit&area=30,0,0,0";}}s:11:"article-toc";a:4:{s:6:"region";s:13:"sidebar-right";s:8:"template";s:19:"default/article-toc";s:4:"sort";i:1;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:11:"article-toc";}s:10:"articleToc";a:2:{i:0;a:3:{s:5:"level";s:2:"h2";s:5:"title";s:47:"Increased demand for data - where does it lead?";s:2:"id";s:3:"var";}i:1;a:3:{s:5:"level";s:2:"h2";s:5:"title";s:8:"Drivers?";s:2:"id";s:4:"var1";}}}}s:11:"block-about";a:5:{s:5:"title";s:28:"Excecutive Consultants Blogg";s:4:"data";a:2:{s:7:"content";s:116:"<h4>Excecutive Consultants Blogg</h4>
+
+<p>Analytics, success stories and other interesting business information</p>
+";s:4:"meta";a:2:{s:4:"type";s:6:"single";s:5:"route";s:13:"./block-about";}}s:6:"region";s:13:"sidebar-right";s:8:"template";s:13:"default/block";s:4:"sort";i:0;}}s:11:"frontmatter";a:4:{s:6:"author";s:4:"peje";s:9:"published";s:10:"2018-01-14";s:8:"category";s:8:"Strategy";s:5:"title";s:113:"Technology has reduced the tax compliance burden on business, but where will the demands for increased data lead?";}}
